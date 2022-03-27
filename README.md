@@ -1,4 +1,4 @@
-## Olá eu sou a Debh, Desenvolvedora Front-End. Seja bem vindo ao meu repô e fork o que quiser.
+## Olá eu sou a Debh, dev front-end. Seja bem vinde ao meu repô!
 <div align="center">
   <a href="https://github.com/debhValois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debhValois&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
