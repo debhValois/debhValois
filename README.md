@@ -1,4 +1,4 @@
-## Olá eu sou a Debh <nick Starbuck> sou dev front-end. Seja bem vinde ao meu repô!
+## Olá eu sou a Debh - nick Starbuck - e sou dev front-end. Seja bem vinde ao meu repô!
 <div align="left">
   <a href="https://github.com/debhValois">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=debhValois&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
